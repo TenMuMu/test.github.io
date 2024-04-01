@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /#invited-talks
+    url: https://github.com/TenMuMu/test.github.io/blob/main/_pages/about.md#selected-publications
 
   - title: "Tutorials"
     url: /#tutorials 
