@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://github.com/TenMuMu/test.github.io/blob/main/_pages/about.md#selected-publications
+    url: /#selected-publications
 
   - title: "Tutorials"
     url: /#tutorials 
@@ -13,10 +13,10 @@ main:
     url: /#teaching  
     
   - title: "Our Students"
-    url: https://github.com/TenMuMu/test.github.io/blob/main/_pages/about.md#our-students
+    url: /#our-students
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
   # - title: "CV"
   #   url: /cv/
