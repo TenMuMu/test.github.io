@@ -13,7 +13,7 @@ main:
     url: /#teaching  
     
   - title: "Our Students"
-    url: /#Our Students
+    url: https://github.com/TenMuMu/test.github.io/blob/main/_pages/about.md#our-students
         
   - title: "Blog Posts"
     url: /year-archive/
